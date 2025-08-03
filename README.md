@@ -1,16 +1,16 @@
 # SHIFT LED
 
-Este projeto consiste em mudar o LED que está atualmente aceso utilizando de dois botões, para mover para esquerda ou para direita.
+Este projeto consiste em mudar o LED que está atualmente aceso utilizando dois botões para movê-lo para a esquerda ou para a direita.
 
 ## Funcionamento
 
-Video de referencia: [YouTube](https://youtube.com/shorts/YSDwbrjQ-3A?feature=share)
+Vídeo de referência: [YouTube](https://youtube.com/shorts/YSDwbrjQ-3A?feature=share)
 
-O circuito possui 8 leds, que se alternam entre oque está aceso no momento. No inicio apenas um LED fica aceso.
+O circuito possui 8 LEDs, que se alternam entre o que está aceso no momento. No início, apenas um LED fica aceso.
 
-Para alterar o LED que está aceso, se utiliza dos dois botões presentes, o botão ligado a porta B1 move o LED aceso para a esquerda, o botão ligado a porta B0 move o LED aceso para a direita.
+Para alterar o LED que está aceso, utilizam-se os dois botões presentes: o botão ligado à porta B1 move o LED aceso para a esquerda, e o botão ligado à porta B0 move o LED aceso para a direita.
 
-Na situação onde o LED mais a direita está aceso, e queremos mover para a direta novamente, o LED mais a esquerda será aceso, simulando um efeito de carrocel infinito. O mesmo ocorre na situação onde o LED mais a esquerda está aceso, e quermos mover para a esquerda.
+Na situação em que o LED mais à direita está aceso e queremos movê-lo para a direita novamente, o LED mais à esquerda será aceso, simulando um efeito de carrossel infinito. O mesmo ocorre na situação em que o LED mais à esquerda está aceso e queremos movê-lo para a esquerda.
 
 ## Componentes
 
@@ -26,6 +26,6 @@ Na situação onde o LED mais a direita está aceso, e queremos mover para a dir
 
 ![Esquema](./Imagens/Circuito.jpg)
 
-- Circuito fisico
+- Circuito físico
 
 ![Fisico](./Imagens/Fisico02.jpeg)
